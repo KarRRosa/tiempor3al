@@ -89,4 +89,3 @@ const port = 3000;
 app.listen(port, () => {
     console.log(`Aplicación corriendo en http://localhost:${port}`)
 })
-
